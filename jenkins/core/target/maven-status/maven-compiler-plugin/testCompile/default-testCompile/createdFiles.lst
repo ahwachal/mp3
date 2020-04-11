@@ -193,6 +193,7 @@ hudson/model/AbstractItemTest.class
 META-INF/annotations/org.kohsuke.stapler.export.ExportedBean
 hudson/util/CopyOnWriteListTest$TestData.class
 hudson/os/DCOMSandbox$JIComOxidStub.class
+jenkins/model/q4test.class
 hudson/model/RunTest$1.class
 hudson/util/QuotedStringTokenizerTest.class
 hudson/util/RobustReflectionConverterTest$Bild.class

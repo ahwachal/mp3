@@ -15,5 +15,5 @@ Camron Savage
 
 5. This was duplicate code. 
 
-6.
+6. We were able to eliminate some duplicate code by applying extract method in HudsonTestCase.java and JenkinsRule.java.
 

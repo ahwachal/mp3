@@ -1,0 +1,19 @@
+Andrew Wachal
+Camron Savage
+
+1. The statements from lines 558-568 are repeated in the getUpdates() method
+   in lines 606-616. This code smell is a duplicate code smell. We can use 
+   the extract method to refactor this code. This creates a method to do
+   the same statements and replace them in the code.
+
+2. see github repo
+
+3. No, it uses methods that calls from the jenkins package, not the Nodes class. A move refactoring could 
+   fix this. This was an example of feature envy code smell.
+
+4. We eliminated the repeated code by adding a for statement. The code smell was duplicate code. 
+
+5. This was duplicate code. 
+
+6.
+
